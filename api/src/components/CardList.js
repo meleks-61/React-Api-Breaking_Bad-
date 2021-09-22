@@ -6,11 +6,12 @@ const Container=styled.div`
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
+
 `;
 
 
 
-const CardList=({cardItems})=>{
+const CardList=({cardItems,})=>{
     return(
         <Container>
             {cardItems.map((item)=>(
