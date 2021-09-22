@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Api-Breaking_Bad-/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-Api-Breaking_Bad-/static/js/main.50862597.chunk.js",
+    "main.js.map": "/React-Api-Breaking_Bad-/static/js/main.50862597.chunk.js.map",
+    "runtime-main.js": "/React-Api-Breaking_Bad-/static/js/runtime-main.52c4563a.js",
+    "runtime-main.js.map": "/React-Api-Breaking_Bad-/static/js/runtime-main.52c4563a.js.map",
+    "static/js/2.2a8f139c.chunk.js": "/React-Api-Breaking_Bad-/static/js/2.2a8f139c.chunk.js",
+    "static/js/2.2a8f139c.chunk.js.map": "/React-Api-Breaking_Bad-/static/js/2.2a8f139c.chunk.js.map",
+    "static/js/3.5716118e.chunk.js": "/React-Api-Breaking_Bad-/static/js/3.5716118e.chunk.js",
+    "static/js/3.5716118e.chunk.js.map": "/React-Api-Breaking_Bad-/static/js/3.5716118e.chunk.js.map",
+    "index.html": "/React-Api-Breaking_Bad-/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-Api-Breaking_Bad-/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2a8f139c.chunk.js.LICENSE.txt": "/React-Api-Breaking_Bad-/static/js/2.2a8f139c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52c4563a.js",
+    "static/js/2.2a8f139c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.50862597.chunk.js"
+  ]
+}
